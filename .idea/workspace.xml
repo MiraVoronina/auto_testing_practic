@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d33d5b8-e749-4b9b-aad3-1d90b59c1d4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cypress.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/create_demand.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/employer_confirmation.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/search_filter_demand.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/student_response.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/workspace_interaction.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/e2e/workspace_status.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/support/e2e.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2wygaoTSMDBjOIT0N6hNFPs1ExD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/MSI/AppData/Roaming/JetBrains/WebStorm2025.1/node/versions/22.15.0/node",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.1.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d33d5b8-e749-4b9b-aad3-1d90b59c1d4f" name="Changes" comment="" />
+      <created>1747019294501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747019294501</updated>
+      <workItem from="1747019295530" duration="3243000" />
+      <workItem from="1747023260151" duration="536000" />
+      <workItem from="1747024200798" duration="17000" />
+      <workItem from="1747032176669" duration="1521000" />
+      <workItem from="1747040738528" duration="7001000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
