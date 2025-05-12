@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6d33d5b8-e749-4b9b-aad3-1d90b59c1d4f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/employer_confirmation.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/employer_confirmation.cy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cypress/e2e/search_filter_demand.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/search_filter_demand.cy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
       <workItem from="1747023260151" duration="536000" />
       <workItem from="1747024200798" duration="17000" />
       <workItem from="1747032176669" duration="1521000" />
-      <workItem from="1747040738528" duration="9761000" />
+      <workItem from="1747040738528" duration="11645000" />
     </task>
     <servers />
   </component>
