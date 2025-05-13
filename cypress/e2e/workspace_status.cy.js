@@ -9,7 +9,7 @@ describe('Смена статуса потребности работодате�
 
     it('Публикация потребности', () => {
         cy.visit('https://dev.profteam.su/account/needs');
-        cy.wait(1500); 
+        cy.wait(1500);
 
         cy.contains('Опубликовать').scrollIntoView().should('exist');
         cy.contains('Опубликовать').click({ force: true });
