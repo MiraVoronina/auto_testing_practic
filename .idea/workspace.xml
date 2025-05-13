@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6d33d5b8-e749-4b9b-aad3-1d90b59c1d4f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/workspace_interaction.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/workspace_interaction.cy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/workspace_status.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/workspace_status.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/student_response.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/student_response.cy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,9 @@
       <workItem from="1747032176669" duration="1521000" />
       <workItem from="1747040738528" duration="17313000" />
       <workItem from="1747078009306" duration="606000" />
-      <workItem from="1747130772525" duration="1253000" />
+      <workItem from="1747130772525" duration="1930000" />
+      <workItem from="1747144560943" duration="17000" />
+      <workItem from="1747146151689" duration="1368000" />
     </task>
     <servers />
   </component>
