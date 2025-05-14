@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d33d5b8-e749-4b9b-aad3-1d90b59c1d4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/2151773881.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/35013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/fixtures/view-adorable-persian-domestic-cat.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/student_response.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/student_response.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/workspace_interaction.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/workspace_interaction.cy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/e2e/workspace_status.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/workspace_status.cy.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MSI/WebstormProjects/auto_testing/cypress/fixtures&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -40,6 +45,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI\WebstormProjects\auto_testing\cypress\fixtures" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -63,6 +73,10 @@
       <workItem from="1747130772525" duration="1930000" />
       <workItem from="1747144560943" duration="17000" />
       <workItem from="1747146151689" duration="1368000" />
+      <workItem from="1747170283764" duration="710000" />
+      <workItem from="1747189529477" duration="6908000" />
+      <workItem from="1747197746949" duration="9000" />
+      <workItem from="1747197785260" duration="6000" />
     </task>
     <servers />
   </component>
